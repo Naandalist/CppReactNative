@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/nandalist/dojo/CppReactNative/android",
+      "sdkFolder": "/home/nandalist/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/nandalist/dojo/CppReactNative/android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/nandalist/dojo/CppReactNative/android/app",
+      "makeFile": "/home/nandalist/dojo/CppReactNative/android/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/home/nandalist/dojo/CppReactNative/android/.cxx",
+      "cxxFolder": "/home/nandalist/dojo/CppReactNative/android/app/.cxx",
+      "ndkFolder": "/home/nandalist/Android/Sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/nandalist/dojo/CppReactNative/android/app/build/intermediates/ndkBuild/debug/lib",
+    "objFolder": "/home/nandalist/dojo/CppReactNative/android/app/build/intermediates/ndkBuild/debug/obj/local",
+    "jsonFolder": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug",
+    "gradleBuildOutputFolder": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64",
+  "jsonFile": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/cxx/debug/x86_64",
+  "objFolder": "/home/nandalist/dojo/CppReactNative/android/app/build/intermediates/ndkBuild/debug/obj/local/x86_64",
+  "buildCommandFile": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64/build_command.txt",
+  "buildOutputFile": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64/build_output.txt",
+  "modelOutputFile": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/nandalist/dojo/CppReactNative/android/app/.cxx/ndkBuild/debug/x86_64/compile_commands.json"
+}

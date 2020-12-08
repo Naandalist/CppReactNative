@@ -1,0 +1,5 @@
+[x86] Compile++      : helloworld <= NativeHelloWorld.cpp
+[x86] Compile++      : helloworld <= hello_world_impl.cpp
+[x86] Compile++      : helloworld <= djinni_support.cpp
+[x86] Compile++      : helloworld <= djinni_main.cpp
+[x86] SharedLibrary  : libhelloworld.so
