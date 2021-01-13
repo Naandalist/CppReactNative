@@ -1,5 +1,5 @@
 {
-  "ndkFolder": "/home/nandalist/Android/Sdk/ndk/21.3.6528147",
+  "ndkFolder": "/home/naandalist/Android/Sdk/ndk/22.0.7026061",
   "messages": [
     {
       "level": "INFO",
@@ -15,19 +15,23 @@
     },
     {
       "level": "INFO",
-      "message": "sdkFolder is /home/nandalist/Android/Sdk"
+      "message": "sdkFolder is /home/naandalist/Android/Sdk"
     },
     {
       "level": "INFO",
-      "message": "Considering /home/nandalist/Android/Sdk/ndk-bundle in SDK ndk-bundle folder"
+      "message": "Considering /home/naandalist/Android/Sdk/ndk-bundle in SDK ndk-bundle folder"
     },
     {
       "level": "INFO",
-      "message": "Considering /home/nandalist/Android/Sdk/ndk/21.3.6528147 in SDK ndk folder"
+      "message": "Considering /home/naandalist/Android/Sdk/ndk/22.0.7026061 in SDK ndk folder"
     },
     {
       "level": "INFO",
-      "message": "No user requested version, choosing /home/nandalist/Android/Sdk/ndk/21.3.6528147 which is version 21.3.6528147"
+      "message": "Rejected /home/naandalist/Android/Sdk/ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "No user requested version, choosing /home/naandalist/Android/Sdk/ndk/22.0.7026061 which is version 22.0.7026061"
     }
   ]
 }
